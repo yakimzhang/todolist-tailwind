@@ -1,4 +1,5 @@
-基于 React + Thailwind 实现 todolist 静态页面
+# 基于 React + Thailwind 实现 todolist 静态页面
+
 ![demo](https://i.postimg.cc/jdDdD4Wr/fddg43565614.png)
 
 ### 介绍
@@ -10,7 +11,7 @@
 1- use below command to install dependencies:
 
 ```javascript
-yarn;
+yarn install
 ```
 
 2- use below command to start react:
