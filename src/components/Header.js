@@ -6,7 +6,7 @@ const Header = () => {
       <div className="flex flex-col flex-1 mt-5 mb-2">
         <div className="flex flex-col">
           <h2 className="w-full text-taskDo-backGray text-5xl font-semiBold leading-normal">
-            hello Marjan
+            hello Yakim
           </h2>
           <h6 className="w-full text-gray-500 text-2xl">
             Welcome to your task management desktop

@@ -27,7 +27,7 @@ const Navigation = () => {
         <div className="flex bg-indigo-200 text-center text-indigo-500 rounded-large items-center justify-center cursor-pointer m-1">
           <RiArrowDownSLine className="w-8 h-8 mx-1" />
           <img
-            src="https://randomuser.me/api/portraits/women/57.jpg"
+            src="../img/touxiang.jpg"
             alt="profile"
             className="rounded-lg w-12 h-12"
           />

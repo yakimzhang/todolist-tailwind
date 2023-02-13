@@ -1,22 +1,16 @@
-![demo](https://imgur.com/pTpQrDI.png)
+基于 React + Thailwind 实现 todolist 静态页面
+![demo](https://i.postimg.cc/jdDdD4Wr/fddg43565614.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 介绍
 
-
-### Motivation
-Just wanted to checkout tailwind css and build something with it. what a enjoyable experience.
-
-I used a design, from [Marjan Entezari](https://www.linkedin.com/in/marjan-entezari-9050b4137/)   
-
-### Demo
-[Task Do](https://codesandbox.io/s/nifty-night-s1wv3)
+本项目主要目的是学习 Thailwind 布局
 
 ### How To Run
 
 1- use below command to install dependencies:
 
 ```javascript
-yarn
+yarn;
 ```
 
 2- use below command to start react:
